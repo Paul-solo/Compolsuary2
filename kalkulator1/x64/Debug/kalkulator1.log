@@ -1,0 +1,3 @@
+﻿  kalkulator1.cpp
+C:\Users\paula\Documents\programering\kalkulator1\kalkulator1\kalkulator1.cpp(156,7): warning C4101: 'number': unreferenced local variable
+  kalkulator1.vcxproj -> C:\Users\paula\Documents\programering\kalkulator1\x64\Debug\kalkulator1.exe
